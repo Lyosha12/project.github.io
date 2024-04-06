@@ -1,0 +1,134 @@
+body {
+    background-color: rgb(48, 81, 48);
+    color: white;
+}
+
+.logo {
+    text-decoration: none;
+    color: white;
+}
+
+.logo:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.btn-primary {
+    background-color: rgb(82, 150, 82);
+    border-color: rgb(82, 150, 82);
+}
+
+.card {
+    background-color: rgb(117, 117, 117);
+    color: white;
+
+}
+
+header,
+footer {
+    background-color: rgb(117, 117, 117);
+    color: white;
+}
+
+.card-title {
+    text-decoration: none;
+    color: white;
+}
+
+.card-title:hover {
+    text-decoration: underline;
+    color: rgb(142, 227, 142);
+}
+
+.time {
+    text-decoration: none;
+    color: white;
+}
+
+.time:hover {
+    text-decoration: underline;
+    color: rgb(142, 227, 142);
+}
+
+.coming-soon {
+    text-decoration: none;
+    color: white;
+}
+
+.coming-soon:hover {
+    text-decoration: underline;
+    color: rgb(142, 227, 142);
+}
+
+.coming-soon-film {
+    text-decoration: none;
+    color: white;
+}
+
+.coming-soon-film:hover {
+    text-decoration: underline;
+    color: rgb(142, 227, 142);
+}
+
+.cinemas {
+    text-decoration: none;
+    color: white;
+}
+
+.cinemas:hover {
+    text-decoration: underline;
+    color: rgb(142, 227, 142);
+}
+
+.city {
+    text-decoration: none;
+    color: white;
+}
+
+.city:hover {
+    text-decoration: underline;
+    color: rgb(142, 227, 142);
+}
+
+.info {
+    text-decoration: none;
+    color: white;
+}
+
+.info:hover {
+    text-decoration: underline;
+    color: rgb(142, 227, 142);
+}
+
+.info-item {
+    text-decoration: none;
+    color: white;
+}
+
+.info-item:hover {
+    text-decoration: underline;
+    color: rgb(142, 227, 142);
+}
+
+.social-media-logo {
+    color: white;
+}
+
+.social-media-logo:hover {
+    color: rgb(142, 227, 142);
+}
+
+.bold-green {
+    color: rgb(142, 227, 142);
+    font-weight: bold;
+}
+
+@media (max-width: 576px) {
+    .card-title {
+        font-size: 18px;
+    }
+
+    .card-text {
+        font-size: 14px;
+    }
+}
